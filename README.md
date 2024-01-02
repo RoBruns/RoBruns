@@ -8,7 +8,7 @@
 
 ##
 
-<img alt="bruns-langs" src="https://skillicons.dev/icons?i=python,django,nodejs,mysql,js,html,css">
+<img alt="bruns-langs" src="https://skillicons.dev/icons?i=python,django,mysql,html,css,nodejs,js">
 
 ##
 
