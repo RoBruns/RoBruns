@@ -4,7 +4,7 @@
 - 💻 Desenvolvedor Back-End 
 - 🔭 Buscando nova oportunidades 
 - 🌱 Estudadno Django e NodeJs
-- 📫 Contate-me em: rodrigobrunsfh@gmail.com | +55 (11) 94286-1882
+- 📫 Contate-me em: rodrigobrunsfh@gmail.com
 
 ##
 
